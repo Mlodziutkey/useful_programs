@@ -71,3 +71,5 @@ plt.title("Ruch harmoniczny")
 plt.grid(True)
 plt.legend()
 plt.show()
+
+```
