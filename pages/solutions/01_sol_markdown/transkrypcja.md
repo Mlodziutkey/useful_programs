@@ -8,7 +8,7 @@
 Przepisz ręcznie zapisane notatki z fizyki kwantowej do czytelnego formatu Markdown. Zachowaj:
 - numerację rozdziałów,
 - listy punktowane,
-- wzory matematyczne w formacie LaTeX,
+- wzory matematyczne w formacie Markdown/GitHub,
 - oryginalne znaczenie i terminologię,
 - czytelny układ treści.
 ```
@@ -22,15 +22,15 @@ Przepisz ręcznie zapisane notatki z fizyki kwantowej do czytelnego formatu Mark
 - Najprostszym modelem jest kwantowy box — kropka kwantowa w kształcie sześcianu; na zewnątrz potencjał jest nieskończony.
 - Równanie Schrödingera:
 
-  $$
-  -\frac{\hbar^2}{2m}\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}\right)\psi(x,y,z) = E\psi(x,y,z)
-  $$
+$$
+-\frac{\hbar^2}{2m}\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}\right)\psi(x,y,z) = E\psi(x,y,z)
+$$
 
 - Energia:
 
-  $$
-  E = \frac{\hbar^2 \pi^2}{2m}\left(\frac{n_x^2}{L_x^2} + \frac{n_y^2}{L_y^2} + \frac{n_z^2}{L_z^2}\right)
-  $$
+$$
+E = \frac{\hbar^2 \pi^2}{2m}\left(\frac{n_x^2}{L_x^2} + \frac{n_y^2}{L_y^2} + \frac{n_z^2}{L_z^2}\right)
+$$
 
 - Stany energetyczne są zdegenerowane.
 - Sferyczna kropka kwantowa $\Rightarrow$ rozszczepienie funkcji falowej na część radialną i kątową (podobnie do zagadnienia atomu wodoru w mechanice kwantowej).
